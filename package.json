@@ -1,0 +1,25 @@
+{
+  "name": "cordova-azure-computer-vision-plugin",
+  "version": "1.0.0",
+  "description": "This plugin is for native apps...",
+  "cordova": {
+    "id": "cordova-azure-computer-vision-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonadn/CordovaAzureComputerVision.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "gonadn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonadn/CordovaAzureComputerVision/issues"
+  },
+  "homepage": "https://github.com/gonadn/CordovaAzureComputerVision#readme"
+}
